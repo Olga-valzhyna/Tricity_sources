@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary
+  conditions="">
+  <GlossaryEntry
+    Terms="Copy (5) of New"
+    glossTerm="Glossary.Term0"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Gdynia</Term>
+    </Terms>
+    <Definition
+      Link="">a city in northern Poland</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term2"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Gdańsk</Term>
+    </Terms>
+    <Definition
+      Link="">a city on the Baltic coast of northern Poland</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term3"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Poland</Term>
+    </Terms>
+    <Definition
+      Link="">officially the Republic of Poland, is a country located in Central Europe</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term4"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Tricity</Term>
+    </Terms>
+    <Definition
+      Link="">a metropolitan area in northern Poland (in Pomeranian Voivodeship), consisting of three cities: Gdańsk, Gdynia and Sopot, as well as minor towns in their vicinity</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term5"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Sopot</Term>
+    </Terms>
+    <Definition
+      Link="">a seaside resort city in Eastern Pomerania on the southern coast of the Baltic Sea in northern Poland, with a population of approximately 40,000</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

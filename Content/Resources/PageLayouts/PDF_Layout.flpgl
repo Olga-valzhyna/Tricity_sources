@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:conditions="" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="Copy of Normal" Width="7in" Height="9in" Padding="20px" PageSize="Letter" PageType="normal" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" Orientation="portrait" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="0in" Right="0in" Bottom="85px" Width="624px" Height="779px">
+        </Frame>
+        <Frame X="0px" Y="807px" Width="624px" Height="57px" Flow="footer" Right="0px" Bottom="0px" Anchors="Left,Right,Bottom" TextAlign="center" VerticalAlign="top" BorderTopStyle="solid" BorderTopWidth="1px" BorderTopColor="#d0d3d5" PaddingTop="30px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:table xhtml:style="width: 100%;">
+                            <xhtml:col />
+                            <xhtml:col />
+                            <xhtml:tbody>
+                                <xhtml:tr>
+                                    <xhtml:td>
+                                        <xhtml:p xhtml:class="frame-footer-text"><MadCap:variable xhtml:name="Heading.Level1" />
+                                        </xhtml:p>
+                                    </xhtml:td>
+                                    <xhtml:td>
+                                        <xhtml:p xhtml:class="frame-footer-page-number"><MadCap:variable xhtml:name="System.PageNumber" />
+                                        </xhtml:p>
+                                    </xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="Title" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="title" PaddingLeft="1in" PaddingRight="1.5in" PaddingTop="1in" PaddingBottom="1in">
+        <Frame Flow="header" Anchors="Left,Right,Top" Right="0in" Bottom="8.84375in" X="0in" Y="-0.75in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" Height="0.90625in" VerticalAlign="bottom" TextAlign="left" Width="576px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="margin-right: 0px;margin-left: 0px;">&#160;</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0.05208333in" Y="0.3854167in" Right="0in" Bottom="0.4791667in" Width="571px" Height="781px">
+        </Frame>
+        <Frame Flow="footer" Anchors="Left,Right,Bottom" Right="0in" Bottom="-0.75in" X="0in" Y="8.697917in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="1.052083in" TextAlign="center" VerticalAlign="middle" Width="576px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p>&#160;</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="233px" Y="-66px" Width="110px" Height="76px" Flow="decoration0" Right="233px" Bottom="854px" BackgroundImage="../Images/Vistula small.jpg" BackgroundRepeat="stretch" />
+        <Frame X="7px" Y="308px" Width="560px" Height="315px" Flow="decoration1" Right="9px" Bottom="241px" BackgroundImage="../Images/Trip-to-Polands-tricity-Gdansk-Sopot-Gdynia2.jpg" BackgroundRepeat="stretch" />
+        <Frame X="5px" Y="8px" Width="563px" Height="308px" Flow="decoration2" Right="8px" Bottom="548px" BackgroundImage="../Images/bird.jpg" BackgroundRepeat="stretch" />
+        <Frame X="5px" Y="625px" Width="562px" Height="241px" Flow="decoration3" Right="9px" Bottom="-2px" BackgroundImage="../Images/S8.jpg" BackgroundRepeat="stretch" />
+    </Page>
+</PageStyles>

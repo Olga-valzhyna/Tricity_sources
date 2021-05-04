@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Name="UserGuideTitle"
+    Comment=""
+    OriginalName="PDFGuideTitle"
+    EvaluatedDefinition="Tricity">Tricity</Variable>
+  <Variable
+    Name="VersionNumber"
+    OriginalName="VersionNumberDot">1.0</Variable>
+  <Variable
+    Name="Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2016-02-16T22:11:15.8176589-08:00"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+  <Variable
+    Name="University"
+    Comment=""
+    EvaluatedDefinition="Vistula">Vistula</Variable>
+  <Variable
+    Name="Speciality"
+    Comment=""
+    EvaluatedDefinition="Technical communication">Technical communication</Variable>
+  <Variable
+    Name="City"
+    Comment=""
+    EvaluatedDefinition="Gdańsk">Gdańsk</Variable>
+  <Variable
+    Name="Author"
+    Comment=""
+    EvaluatedDefinition="Olga Popko">Olga Popko</Variable>
+  <Variable
+    Name="Country"
+    Comment=""
+    EvaluatedDefinition="Poland">Poland</Variable>
+  <Variable
+    Name="Tool"
+    Comment=""
+    EvaluatedDefinition="MadCap Flare">MadCap Flare</Variable>
+  <Variable
+    Name="PDFGuideTitle"
+    Comment=""
+    EvaluatedDefinition="Tricity overview">Tricity overview</Variable>
+</CatapultVariableSet>

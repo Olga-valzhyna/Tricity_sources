@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UrlList>
+    <Url Source="Resources/Snippets/Gdańsk.flsnp" />
+    <Url Source="Resources/Snippets/Sopot.flsnp" />
+    <Url Source="Resources/Snippets/Gdynia.flsnp" />
+    <Url Source="Resources/Snippets/Climate.flsnp" />
+    <Url Source="Resources/Snippets/Tricity.flsnp" />
+</UrlList>

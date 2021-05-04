@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="HTML5"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="PDF"
+    Comment="" />
+</CatapultConditionTagSet>
